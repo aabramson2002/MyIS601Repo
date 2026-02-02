@@ -9,3 +9,4 @@ cd -> enters a folder in linux
 
 Git Commands:
 git init -> creates a new repo
+git clone -> creates a clone of an already existing repo
